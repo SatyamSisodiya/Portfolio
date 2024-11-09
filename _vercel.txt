@@ -1,0 +1,1 @@
+vc-domain-verify=satyam.myportfolio.com,78e10a4f6c9c9dab89ef
